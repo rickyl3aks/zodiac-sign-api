@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
    "dev": "react-scripts start",
-"start": "node server.js",
+"start": "node server.js"
   },
   "author": "Riccardo Consolandi",
   "license": "ISC"
