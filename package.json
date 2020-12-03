@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "zodiac sign info",
   "main": "server.js",
-  "scripts": {
-   "dev": "react-scripts start",
-"start": "node server.js"
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Riccardo Consolandi",
   "license": "ISC"
