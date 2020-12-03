@@ -2,10 +2,10 @@
   "name": "starsign_api",
   "version": "1.0.0",
   "description": "zodiac sign info",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+   "dev": "react-scripts start",
+"start": "node server.js",
   },
   "author": "Riccardo Consolandi",
   "license": "ISC"
