@@ -89,6 +89,7 @@
         " Innocence"
       ],
       "vibe": "Enthusiastic",
+      "motto": "When you know yourself, you're empowered. When you accept yourself, you're invincible",
       "compatibility": ["Leo", " Sagittarius", " Gemini", " Aquarius"],
       "mental_traits": [
         "These individuals often have a very forceful confrontational voice",
@@ -100,8 +101,7 @@
       ],
       "sun_dates": ["March 21", "April 19"],
       "cardinality": "Cardinal",
-      "element": "Fire",
-      "image": "https://www.horoscope.com/images-US/signs/profile-aries.png"
+      "element": "Fire"
     },
     {
       "_id": "59740f0a734d1d6202a90186",
@@ -186,6 +186,7 @@
         " persistence"
       ],
       "vibe": "Determined energy",
+      "motto": "Nothing worth having comes easy",
       "compatibility": ["Capricorn", " Virgo", " Pisces", " Cancer"],
       "mental_traits": [
         "People born under this sign love nice things; they can come across as extremely materialistic, or as people who enjoy the finer things in life",
@@ -292,6 +293,7 @@
         "  Ingenuity"
       ],
       "vibe": "Mental energy",
+      "motto": "I manifest my reality",
       "compatibility": ["Aries", " Leo", " Libra", " Aquarius"],
       "mental_traits": [
         "Geminis are usually good arguers, witty, adaptive, flirtatious, playful (but may come across as offensive), tricksters, inconsistent, easy to please, intellectual, chatty, quick-witted, social butterflies, knowledge-seeking, and changeable",
@@ -394,6 +396,7 @@
         " Femininity"
       ],
       "vibe": "Moody",
+      "motto": "I feel, therefore I am",
       "compatibility": ["Taurus", " Virgo", " Scorpio", " Pisces"],
       "mental_traits": [
         "They are very sensitive - with unpredictable moods, romantic, nice, sweet, caring and nurturing, motherly, homey",
@@ -499,6 +502,7 @@
         "Loyal"
       ],
       "vibe": "Radiant energy",
+      "motto": "If you know the way, go the way and show the way—you're a leader",
       "compatibility": ["Aries", " Gemini", " Libra", " Sagittarius"],
       "mental_traits": [
         "Leos are loving and sensitive leaders",
@@ -605,6 +609,7 @@
         " Purity"
       ],
       "vibe": "Compassionate and caring",
+      "motto": "My best can always be better",
       "compatibility": ["Taurus", " Cancer", " Scorpio", " Capricorn"],
       "mental_traits": [
         "These individuals are usually considered perfectionists, critical, detail-oriented, fastidious, practical, intelligent, sharp-witted, with keen intellect and powers of observation, shrewd, and penetrating",
@@ -702,6 +707,7 @@
         " Fairness"
       ],
       "vibe": "Unsteady",
+      "motto": "No person is an island",
       "compatibility": ["Gemini", " Leo", " Sagittarius", " Aquarius"],
       "mental_traits": [
         "Those born under the sign of Libra are intelligent, charming, flirtatious, frivolous, graceful, loyal and diplomatic",
@@ -804,6 +810,7 @@
         " Obsession"
       ],
       "vibe": "Resilient",
+      "motto": "You never know what you are capable of until you try",
       "compatibility": ["Cancer", " Virgo", " Capricorn", " Pisces"],
       "mental_traits": [
         "Scorpios are secretive, passionate, confident, loyal, athletic, hyper-sensitive, mysterious, penetrating, investigative, powerful, sexual, resourceful, jealous, controlling, hot-tempered, magnetic, strong-willed, resilient, and revengeful",
@@ -907,6 +914,7 @@
         " Wisdom"
       ],
       "vibe": "Overly expressive - frequent burnouts",
+      "motto": "Towering genius disdains a beaten path",
       "compatibility": ["Aries", " Leo", " Libra", " Aquarius"],
       "mental_traits": [
         "They are adventurous, independent, friendly, enthusiastic, broad-minded, overly-optimistic, brave, intelligent, charismatic, flirtatious, rebellious, love theory, tend to apply textbook theory to their pursuits, are highly capable of being technical, tend to be all-knowing and freedom-seeking",
@@ -1016,6 +1024,7 @@
         " Public Image/Acclaim"
       ],
       "vibe": "Resilient energy",
+      "motto": "I can succeed at anything I put my mind to",
       "compatibility": ["Taurus", " Virgo", " Scorpio", " Pisces"],
       "mental_traits": [
         "Capricorns are ambitious, determined, patient, mature, powerful, achiever, mysterious (disappearing), reserved, and detached, cautious, hot-tempered generous hard workers with a pair of penetrating eyes",
@@ -1125,6 +1134,7 @@
         " Groups"
       ],
       "vibe": "High frequency",
+      "motto": "There is no me, there is only we",
       "compatibility": ["Aries", " Gemini", " Libra", " Sagittarius"],
       "mental_traits": [
         "Aquarius people love to help others",
@@ -1217,6 +1227,7 @@
         " Mystery"
       ],
       "vibe": "Erratic energy levels",
+      "motto": "Dont' dish what you can't take",
       "compatibility": ["Taurus", " Cancer", " Scorpio", " Capricorn"],
       "mental_traits": [
         "They are highly creative, smart, passionate, sensitive and friendly",
