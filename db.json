@@ -100,7 +100,8 @@
       ],
       "sun_dates": ["March 21", "April 19"],
       "cardinality": "Cardinal",
-      "element": "Fire"
+      "element": "Fire",
+      "image": "./star_sign_img/aries.png"
     },
     {
       "_id": "59740f0a734d1d6202a90186",
