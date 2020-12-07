@@ -101,7 +101,7 @@
       "sun_dates": ["March 21", "April 19"],
       "cardinality": "Cardinal",
       "element": "Fire",
-      "image": "https://www.horoscope.com/images-US/signs/profile-aries.png"
+      "image": "./star_sign_img/aries.png"
     },
     {
       "_id": "59740f0a734d1d6202a90186",
