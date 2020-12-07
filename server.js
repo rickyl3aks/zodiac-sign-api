@@ -7,8 +7,10 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
 
-app.use(function (req, res, next) {
-  res.header("Access-Control-Allow-Origin: http://www.google.com");
+app.use(cors());
+
+app.get("/products/:id", function (req, res, next) {
+  res.json({ msg: "This is CORS-enabled for all origins!" });
 });
 
 server.use(middlewares);
