@@ -9,8 +9,6 @@ const port = process.env.PORT || 3000;
 
 app.use(function (req, res, next) {
   res.header("Access-Control-Allow-Origin: http://www.google.com");
-
-  next();
 });
 
 server.use(middlewares);
