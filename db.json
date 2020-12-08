@@ -1,9 +1,8 @@
 {
   "zodiac_sign": [
     {
-      "_id": "5973d0fd4d75a100114e1d79",
+      "_id": "1",
       "name": "Aries",
-      "__v": 0,
       "famous_people": [
         "Lady Gaga",
         " Mariah Carey",
@@ -102,12 +101,11 @@
       "sun_dates": ["March 21", "April 19"],
       "cardinality": "Cardinal",
       "element": "Fire",
-      "image": "https://www.horoscope.com/images-US/signs/profile-aries.png"
+      "image": "star_sign_img/aries.png"
     },
     {
-      "_id": "59740f0a734d1d6202a90186",
+      "_id": "2",
       "name": "Taurus",
-      "__v": 0,
       "famous_people": [
         "Adele",
         " Al Pacino",
@@ -205,9 +203,8 @@
       "element": "Earth"
     },
     {
-      "_id": "597410c4734d1d6202a901b6",
+      "_id": "3",
       "name": "Gemini",
-      "__v": 0,
       "famous_people": [
         "Angelina Jolie",
         " Kanye West",
@@ -314,9 +311,8 @@
       "element": "Air"
     },
     {
-      "_id": "597411d9734d1d6202a901de",
+      "_id": "4",
       "name": "Cancer",
-      "__v": 0,
       "famous_people": [
         "Meryl Streep",
         " Tom Cruise",
@@ -419,9 +415,8 @@
       "element": "Water"
     },
     {
-      "_id": "597412e4734d1d6202a9020e",
+      "_id": "5",
       "name": "Leo",
-      "__v": 0,
       "famous_people": [
         "Madonna",
         " Jennifer Lopez",
@@ -527,9 +522,8 @@
       "element": "Fire"
     },
     {
-      "_id": "597413d2734d1d6202a90230",
+      "_id": "6",
       "name": "Virgo",
-      "__v": 0,
       "famous_people": [
         "Beyoncé",
         " Michael Jackson",
@@ -633,9 +627,8 @@
       "element": "Earth"
     },
     {
-      "_id": "597416c4734d1d6202a9027c",
+      "_id": "7",
       "name": "Libra",
-      "__v": 0,
       "famous_people": [
         "Kim Kardashian",
         " Gwyneth Paltrow",
@@ -730,9 +723,8 @@
       "element": "Air"
     },
     {
-      "_id": "597419fb734d1d6202a902ea",
+      "_id": "8",
       "name": "Scorpio",
-      "__v": 0,
       "famous_people": [
         "Hillary Clinton",
         " Drake",
@@ -833,9 +825,8 @@
       "element": "Water"
     },
     {
-      "_id": "59741cd6734d1d6202a90366",
+      "_id": "9",
       "name": "Sagittarius",
-      "__v": 0,
       "famous_people": [
         "Brad Pitt",
         " Taylor Swift",
@@ -939,9 +930,8 @@
       "element": "Fire"
     },
     {
-      "_id": "5974200a734d1d6202a9041c",
+      "_id": "10",
       "name": "Capricorn",
-      "__v": 0,
       "famous_people": [
         "David Bowie",
         " Muhammad Ali",
@@ -1052,9 +1042,8 @@
       "element": "Earth"
     },
     {
-      "_id": "59742571734d1d6202a90564",
+      "_id": "11",
       "name": "Aquarius",
-      "__v": 0,
       "famous_people": [
         "Oprah Winfrey",
         " Jennifer Aniston",
@@ -1159,9 +1148,8 @@
       "element": "Air"
     },
     {
-      "_id": "59743229734d1d6202a9073c",
+      "_id": "12",
       "name": "Pisces",
-      "__v": 0,
       "famous_people": [
         "Albert Einstein",
         " Rihanna",
