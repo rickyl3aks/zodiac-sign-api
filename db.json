@@ -201,7 +201,8 @@
       ],
       "sun_dates": ["April 20", "May 20"],
       "cardinality": "Fixed",
-      "element": "Earth"
+      "element": "Earth",
+      "image": "star_sign_img/taurus.png"
     },
     {
       "_id": "3",
@@ -309,7 +310,8 @@
       ],
       "sun_dates": ["May 21", "June 20"],
       "cardinality": "Mutable",
-      "element": "Air"
+      "element": "Air",
+      "image": "star_sign_img/gemini.png"
     },
     {
       "_id": "4",
@@ -413,7 +415,8 @@
       ],
       "sun_dates": ["June 21", "July 22"],
       "cardinality": "Cardinal",
-      "element": "Water"
+      "element": "Water",
+      "image": "star_sign_img/cancer.png"
     },
     {
       "_id": "5",
@@ -520,7 +523,8 @@
       ],
       "sun_dates": ["July 23", "August 22"],
       "cardinality": "Fixed",
-      "element": "Fire"
+      "element": "Fire",
+      "image": "star_sign_img/leo.png"
     },
     {
       "_id": "6",
@@ -626,7 +630,8 @@
       ],
       "sun_dates": ["August 23", "September 22"],
       "cardinality": "Mutable",
-      "element": "Earth"
+      "element": "Earth",
+      "image": "star_sign_img/virgo.png"
     },
     {
       "_id": "7",
@@ -722,7 +727,8 @@
       ],
       "sun_dates": ["September 23", "October 22"],
       "cardinality": "Cardinal",
-      "element": "Air"
+      "element": "Air",
+      "image": "star_sign_img/libra.png"
     },
     {
       "_id": "8",
@@ -825,7 +831,8 @@
       ],
       "sun_dates": ["October 23", "November 21"],
       "cardinality": "Fixed",
-      "element": "Water"
+      "element": "Water",
+      "image": "star_sign_img/scorpio.png"
     },
     {
       "_id": "9",
@@ -930,7 +937,8 @@
       ],
       "sun_dates": ["November 22", "December 21"],
       "cardinality": "Mutable",
-      "element": "Fire"
+      "element": "Fire",
+      "image": "star_sign_img/sagittarius.png"
     },
     {
       "_id": "10",
@@ -1042,7 +1050,8 @@
       ],
       "sun_dates": ["December 22", "January 19"],
       "cardinality": "Cardinal",
-      "element": "Earth"
+      "element": "Earth",
+      "image": "star_sign_img/capricorn.png"
     },
     {
       "_id": "11",
@@ -1148,7 +1157,8 @@
       ],
       "sun_dates": ["January 20", "February 18"],
       "cardinality": "Fixed",
-      "element": "Air"
+      "element": "Air",
+      "image": "star_sign_img/aquarius.png"
     },
     {
       "_id": "12",
@@ -1241,7 +1251,8 @@
       ],
       "sun_dates": ["February 19", "March 20"],
       "cardinality": "Mutable",
-      "element": "Water"
+      "element": "Water",
+      "image": "star_sign_img/pisces.png"
     }
   ]
 }
